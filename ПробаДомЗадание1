@@ -1,0 +1,10 @@
+Код ответа сервера для запроса GET http://adukar.by
+GET / HTTP/1.1
+Host: adukar.by
+Accept: */*
+User-Agent: Rigor API Tester
+
+веб-сервер, используемый для сайта http://vk.com
+HTTP/1.1 302 Found
+Server: Internet Information Services
+Третье задание не понял и не увидел где смотреть в программе api tester 8-(
